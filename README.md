@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, welcome! 👋 I'm Diego. 
+I want to be a software developer 👨🏻‍💻🛠, and my point to start is the web.
 
+⚠ Considerations: 
+I'm learning English (I will inevitably have mistakes and hope to improve by practicing).
 <!--
 **AR2F/AR2F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
